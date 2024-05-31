@@ -214,5 +214,5 @@ Contributions are welcome! Please follow these steps:
 
 For questions or suggestions, please contact:
 
-- Your Name: [keithianlamb@gmail.com](mailto:keithianlamb@gmail.com)
+- Keith Lamb: [keithianlamb@gmail.com](mailto:keithianlamb@gmail.com)
 - GitHub: [Keith-Lamb](https://github.com/KeithLamb72)
